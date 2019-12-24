@@ -19,7 +19,7 @@ namespace _1224WinGitTest
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            this.Text = "버튼 클릭";//ㄴㅇㄹㄴㅇㄹ
+            this.Text = "버튼 클릭";
         }
     }
 }
