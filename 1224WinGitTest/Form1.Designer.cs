@@ -46,7 +46,7 @@
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(91, 216);
+            this.checkBox1.Location = new System.Drawing.Point(45, 164);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(86, 16);
             this.checkBox1.TabIndex = 1;
@@ -55,12 +55,13 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(279, 208);
+            this.button2.Location = new System.Drawing.Point(163, 164);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.Size = new System.Drawing.Size(191, 67);
             this.button2.TabIndex = 2;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // Form1
             // 

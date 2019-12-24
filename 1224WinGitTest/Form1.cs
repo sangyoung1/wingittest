@@ -21,5 +21,10 @@ namespace _1224WinGitTest
         {
             this.Text = "버튼 클릭";
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            this.Text = "버튼클클릭";
+        }
     }
 }
